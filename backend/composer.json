@@ -8,8 +8,10 @@
     "authors": [
         {
             "name": "Konstantin Vaganov",
-            "email": ""
+            "email": "some@mail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php-amqplib/php-amqplib": "^3.3"
+    }
 }
